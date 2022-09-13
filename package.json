@@ -1,17 +1,17 @@
 {
-  "name": "unplugin-vue-components",
+  "name": "@dalirnet/unplugin-vue-components",
   "version": "0.21.1",
   "packageManager": "pnpm@7.1.5",
   "description": "Components auto importing for Vue",
   "author": "antfu <anthonyfu117@hotmail.com>",
   "license": "MIT",
   "funding": "https://github.com/sponsors/antfu",
-  "homepage": "https://github.com/antfu/unplugin-vue-components",
+  "homepage": "https://github.com/dalirnet/unplugin-vue-components.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/unplugin-vue-components"
+    "url": "https://github.com/dalirnet/unplugin-vue-components.git"
   },
-  "bugs": "https://github.com/antfu/unplugin-vue-components/issues",
+  "bugs": "https://github.com/dalirnet/unplugin-vue-components.git/issues",
   "exports": {
     ".": {
       "require": "./dist/index.js",
